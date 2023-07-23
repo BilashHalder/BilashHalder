@@ -18,7 +18,7 @@
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 - 🌱 I’m currently learning **Decentralized Application Development**
 
-- 👨‍💻 All of my projects are available at [https://bilashhalder.com](https://bilashhalder.com)
+
 
 - 📝 I regularly write articles on [Programming, Designing, Cricket](Programming, Designing, Cricket)
 
